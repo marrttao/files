@@ -1,0 +1,1 @@
+Symbols: 5, lines: 4, vowels: 14, consonants: 19, digits: 21
