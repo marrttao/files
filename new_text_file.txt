@@ -1,0 +1,5 @@
+application
+installed
+successfully
+correct
+functions
