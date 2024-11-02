@@ -1,0 +1,3 @@
+i writting this text by git copilot in the text file and its so cool
+git copilot very cool thing
+that i can use it to write code and text
